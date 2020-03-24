@@ -1,0 +1,2 @@
+# Docking
+Sailfishos Docking station
